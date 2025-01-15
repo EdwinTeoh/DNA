@@ -1,0 +1,3 @@
+[submodule "DNA/vendor/spdlog"]
+	path = DNA/vendor/spdlog
+	url = https://github.com/gabime/spdlog
